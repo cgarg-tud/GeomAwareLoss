@@ -3,12 +3,10 @@ Code and Data used for conducting Research on my Masters thesis : Indoor 3D Reco
 
 For basic code structure, repository from https://github.com/NVlabs/planercnn is used. On top of that we provide addtioonal modules for loss functions, utility functions for analysing 3D and 2D data s well as for visual evaluation of depth maps, point clouds and 3D models.
 
-Input Data
+Input Data : Scannet Dataset Please sign the terms of use as provided by scannet to access test dataset
 
-Training and Testing 
+Training and Testing : For using our loss function, use for loss module
 
-Inference
-
-3D Reconstruction
+3D Reconstruction : For normal consistency use depth_recons function in the modules 
 
 **#Updated Code and Data Coming Soon**
