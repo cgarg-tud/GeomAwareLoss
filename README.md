@@ -9,4 +9,3 @@ Training and Testing : For using our loss function, use for loss module
 
 3D Reconstruction : For normal consistency use depth_recons function in the modules 
 
-**#Updated Code and Data Coming Soon**
